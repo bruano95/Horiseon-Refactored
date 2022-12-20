@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Includes links that will navagate to the stated destination */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +21,12 @@ body {
     font-size: 48px;
 }
 
+/* The letters seo are a different color shade to the rest of the work "Horiseo" */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Includes items within .header nav ul */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -60,12 +63,14 @@ p {
     background-position: center;
 }
 
+/* Includes image from search-engine-optimization and social-media-marketing */
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
+/* Includes images from online-reputation-management section */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -89,22 +94,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Includes content from 'lead, brand, and cost' topics */
 .benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Includes content from 'lead, brand, and cost' topics */
 .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Includes content from 'lead, brand, and cost' topics */
 .benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Condensed all content within section to provide similar needs to each */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,10 +123,7 @@ p {
     color: #ffffff;
 }
 
-.content-section img {
-    max-height: 200px;
-}
-
+/* Changes all headers within the section to the same font-size and margin */
 .content-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
