@@ -1,4 +1,4 @@
-# code-refactor
+# Code Refactor
 Improving HTML semantics and accessibility, and optimizing CSS within the given code.
 
 ## Description
